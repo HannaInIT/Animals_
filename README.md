@@ -5,3 +5,4 @@ In this document, you can see a list of the best animals in the world. They poss
 * [Owl](owl.md)
 * [Black panther](black_panther.md)
 * [Cat](cat.md)
+* [Dog](dog.md)
